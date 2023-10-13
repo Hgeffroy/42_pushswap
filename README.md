@@ -17,7 +17,7 @@ The main objectives of the Push Swap project are as follows:
 
 4. **Error Handling**: Properly handle errors, such as invalid input or incorrect usage of operations.
 
-## Usage`
+## Usage
 
 Building and Running
 To build the Push Swap program, use the provided Makefile:
